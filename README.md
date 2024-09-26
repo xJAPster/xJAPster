@@ -3,6 +3,6 @@
 - 🎮 I like playing (and attempting to make 😅) games !
 - Active on LeetCode [check me out ;) -> https://leetcode.com/u/xJAPster/]
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/xJAPster?theme=dark&font=Poppins)
+![LeetCode Stats](https://leetcard.jacoblin.cool/xJAPster?theme=dark&font=Poppins&ext=heatmap)
 
 [![An image of @xjapster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xjapster)](https://holopin.io/@xjapster)
