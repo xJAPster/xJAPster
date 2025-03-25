@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xJAPster, a.k.a. Jonathan !
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++, Java and JS
 - 🎮 I like playing (and attempting to make 😅) games !
 - Check me out on Leetcode -> https://leetcode.com/u/xJAPster/
 
